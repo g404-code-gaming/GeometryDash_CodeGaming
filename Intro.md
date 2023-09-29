@@ -8,3 +8,6 @@ Le jeu est connu pour sa difficulté 😅, avec des niveaux qui exigent une pré
 Dans ce cours, nous allons recréer une version simplifiée de Geometry Dash en utilisant GDevelop 5 🛠️, un moteur de jeu open source qui permet de créer des jeux sans avoir besoin de coder. Nous allons couvrir tous les aspects de la création du jeu, de la conception de la carte 🗺️ à l'animation du personnage 🏃‍♂️, en passant par la gestion de la mort 💀 et la fin du parcours 🏁. Nous allons également ajouter quelques extras 🎁 pour rendre le parcours plus intéressant.
 
 Que tu sois un développeur de jeux expérimenté ou un débutant complet, ce cours te donnera une compréhension approfondie de la façon dont les jeux de plateforme rythmique sont créés. Alors, prépare-toi à plonger dans le monde passionnant du développement de jeux avec Geometry Dash et GDevelop 5 !
+
+![image](https://github.com/g404-code-gaming/GeometryDash_CodeGaming/assets/80946089/27754d4e-b0da-4080-887f-dbf022edb1bd)
+
