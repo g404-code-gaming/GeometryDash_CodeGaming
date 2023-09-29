@@ -19,3 +19,7 @@ La map de notre version de Geometry Dash sera créée en utilisant une série d'
 Chaque objet a un rôle spécifique et contribue à la complexité et à l'amusement du jeu. En combinant ces objets de différentes manières, nous pouvons créer une variété de niveaux avec des défis uniques pour les joueurs.
 
 Maintenant que tu as cette liste d'objets 📝, je t'encourage à essayer de créer ton propre niveau de Geometry Dash 🎮. Pense à la façon dont tu peux disposer les plateformes 🟦, les tremplins ⬆️, les pièges ⚠️ et les zones de détection de mort 🟥 pour créer un parcours intéressant et stimulant 🧩. N'oublie pas d'inclure la porte 🚪 à la fin du niveau et de parsemer des boules de couleur 🌈 pour donner aux joueurs un défi supplémentaire. Si tu as du mal à visualiser comment tout cela pourrait s'assembler, ne t'inquiète pas 😊. Je te fournirai une image 🖼️ pour te donner une idée de ce à quoi pourrait ressembler un niveau. Alors, lance-toi et laisse libre cours à ta créativité 💡 !
+
+![Map](Images/Map.png)
+
+[Passons au déplacement de notre personnage](https://github.com/g404-code-gaming/GeometryDash_CodeGaming/blob/main/Création-Du-Jeu/02_Déplacement%20du%20personnage%20%2B%20animation.md)
