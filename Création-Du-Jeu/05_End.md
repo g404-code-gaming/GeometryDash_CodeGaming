@@ -10,8 +10,9 @@ La fin du parcours est généralement marquée par une porte ou un autre objet d
 
 Lorsque le personnage atteint la porte, nous devons exécuter un certain code pour marquer la fin du niveau. Cela pourrait inclure l'arrêt du mouvement du personnage, la lecture d'une animation de fin de niveau, l'affichage d'un écran de victoire, etc.
 
-![EndCode](EndCode.png)
+![EndCode](Images/EndCode.png)
 
+(le code est impressionnant, mais il est surtout composé de ligne dédiée a l'animation si vous ne voulez pas d'animation, vous avez juste à réaliser la dernière ligne de code)
 
 Félicitations ! 🎉 Tu as réussi à créer ton propre Geometry Dash ! 🎮 C'est une réalisation impressionnante. Tu as pris un concept de jeu populaire et tu l'as fait tien, en utilisant tes compétences en codage et en design. 
 
