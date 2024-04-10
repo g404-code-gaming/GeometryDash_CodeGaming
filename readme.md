@@ -11,5 +11,5 @@ Que tu sois un développeur de jeux expérimenté ou un débutant complet, ce co
 
 [Création de la Map](https://github.com/g404-code-gaming/GeometryDash_CodeGaming/blob/main/Création-Du-Jeu/01_CreationMap.md)
 
-[Lien pour tester le jeu](https://gd.games/instant-builds/b4cef66f-8b7a-4bd9-9980-b928a65b89b0)
+[Lien pour tester le jeu](https://gd.games/instant-builds/0b62dd09-e974-4668-84b1-0a020bde5033)
 
