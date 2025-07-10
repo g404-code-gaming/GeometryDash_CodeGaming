@@ -7,7 +7,7 @@ Voici un exemple en image.
 ![CheckBoxExemple](Images/CheckBoxExemple.png)
 
 ## Code de la mort 💻
-Une fois les checkbox placées, nous pouvons passer au code de la mort. Ce code sera exécuté lorsque le personnage entre en contact avec une zone de détection de mort. Il peut inclure des actions comme arrêter le mouvement du personnage, jouer une animation de mort, afficher un message de game over, etc. Le code de la mort est une partie essentielle du jeu, car il donne des conséquences aux erreurs du joueur et ajoute un élément de défi au jeu.
+Une fois les checkbox placées, nous pouvons passer au [code](https://github.com/g404-code-gaming/GDevelop_Cour/blob/main/%C3%A9v%C3%A8nements.md) de la mort. Ce code sera exécuté lorsque le personnage entre en contact avec une zone de détection de mort. Il peut inclure des actions comme arrêter le mouvement du personnage, jouer une animation de mort, afficher un message de game over, etc. Le code de la mort est une partie essentielle du jeu, car il donne des conséquences aux erreurs du joueur et ajoute un élément de défi au jeu.
 
 Pour ne pas voir les CheckBox, on passera l'opacité de l'objet au lancement de la scène à 0.
 
