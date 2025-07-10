@@ -4,11 +4,11 @@ La fin du parcours est un élément crucial de tout niveau de Geometry Dash. C'e
 
 ## Placement de la porte 🚪
 
-La fin du parcours est généralement marquée par une porte ou un autre objet de fin de niveau. Cette porte doit être placée à un endroit qui ne peut être atteint que si le joueur a réussi à naviguer à travers tous les obstacles du niveau.
+La fin du parcours est généralement marquée par une porte ou un autre [objet](https://github.com/g404-code-gaming/GDevelop_Cour/blob/main/Objets.md) de fin de niveau. Cette porte doit être placée à un endroit qui ne peut être atteint que si le joueur a réussi à naviguer à travers tous les obstacles du niveau.
 
 ## Code de fin de niveau 💻
 
-Lorsque le personnage atteint la porte, nous devons exécuter un certain code pour marquer la fin du niveau. Cela pourrait inclure l'arrêt du mouvement du personnage, la lecture d'une animation de fin de niveau, l'affichage d'un écran de victoire, etc.
+Lorsque le personnage atteint la porte, nous devons exécuter un certain [code](https://github.com/g404-code-gaming/GDevelop_Cour/blob/main/%C3%A9v%C3%A8nements.md) pour marquer la fin du niveau. Cela pourrait inclure l'arrêt du mouvement du personnage, la lecture d'une animation de fin de niveau, l'affichage d'un écran de victoire, etc.
 
 ![EndCode](Images/EndCode.png)
 
