@@ -28,7 +28,10 @@ Player2 correspond à un groupe d'objet qui est le Player et les particules que 
 ## Animation avec ajout de particules 🎇: 
 
 ### Ajout de particules ✨:
-Pour rendre le jeu plus visuellement intéressant, nous pouvons ajouter des particules qui sont émises lorsque le personnage court et saute. Ces particules peuvent ressembler à de la poussière, des étincelles, etc. Elles peuvent être créées en utilisant un émetteur de particules.
+
+Pour rendre le jeu plus visuellement intéressant, nous pouvons ajouter des particules qui sont émises lorsque le personnage court et saute. Ces particules peuvent ressembler à de la poussière, des étincelles, etc.
+
+Les particules proviennent d'un objet spécial appelé **émetteur de particule** (*particle emitter* en anglais)
 
 Crée un émetteur de particule puis placer le à l'arrière de notre personnage au sol.
 À chaque instant, on va modifier la position pour chaque déplacement du payer.
