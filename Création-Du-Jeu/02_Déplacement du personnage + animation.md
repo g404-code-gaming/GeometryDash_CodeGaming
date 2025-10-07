@@ -3,7 +3,7 @@
 ### Comportement📊: 
 Avant de commencer à coder le déplacement et le saut, nous devons ajoutez certains comportements. 
 
-Ajoutez le comportement *PlateformersObject* (en français : Personnage Ce déplaçant sur des plateformes) sur votre Personnage cubique. 
+Ajoutez le comportement **PlateformersObject** (en français : Personnage Ce déplaçant sur des plateformes) sur votre Personnage cubique. 
 
 Pour savoir comment ajouter un comportement, c'est par ici : ---> [comportements](https://github.com/g404-code-gaming/GDevelop_Cour/blob/main/Comportement.md).
 
@@ -11,7 +11,7 @@ Dans le comportement de votre personnage, désactivez les contrôles par défaut
 
 ![plateformerComportement](Images/ComportementPlateformer.png)
 
-Ajoutez aussi le comportement *Plateformer* sur vos plateformes, sinon, votre personnage tombera dans le vide.
+Ajoutez aussi le comportement **Plateformer** sur vos plateformes, sinon, votre personnage tombera dans le vide.
 
 ### Code 💻: 
 
