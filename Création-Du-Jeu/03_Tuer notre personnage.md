@@ -6,6 +6,10 @@ Dans Geometric dash, on peut mourrir de deux manières :
 
 Afin de ne pas avoir à coder chacune de ces manières de mourrir, nous allons réunir tout les éléments dangereux dans un groupe d'objet. 
 
+Créez un groupe d'objet **Danger** et placez dedans vos objets dangereux.
+
+
+
 ## Placement des checkbox 📦
 La première étape pour tuer notre personnage est de placer des checkbox sur chaque devanture des plateformes. Ces checkbox serviront de zones de détection de mort. Lorsque notre personnage cubique 🟩 entre en contact avec l'une de ces zones, il sera considéré comme mort. Il est important de placer ces checkbox de manière précise pour s'assurer que le personnage meurt seulement lorsqu'il est censé mourir (par exemple, lorsqu'il tombe dans un piège ⚠️ ou lorsqu'il touche un obstacle).
 Voici un exemple en image.
