@@ -1,15 +1,25 @@
 # 🏃‍♂️ Déplacement du personnage + animation : 
 ## Déplacement + Saut 🦘: 
 ### Comportement📊: 
-Avant de commencer à coder le déplacement et le saut, nous devons définir certains [comportements](https://github.com/g404-code-gaming/GDevelop_Cour/blob/main/Comportement.md). Ces comportements peuvent inclure la vitesse de déplacement 🏎️, la hauteur du saut 🚀, etc. Ces comportements nous aideront à contrôler le personnage de manière plus précise et flexible.
-Pour cela, nous allons ajouter tout d'abord le comportement "Plateformer" puis ajustons quelque variable à l'intérieur de ce comportement. Tout d'abord, désactivons les commandes par défaut et ajustons les valeurs de saut, car le déplacement sera permanant.
+Avant de commencer à coder le déplacement et le saut, nous devons ajoutez certains comportements. 
+
+Ajoutez le comportement *PlateformersObject* (en français : Personnage Ce déplaçant sur des plateformes) sur votre Personnage cubique. 
+
+Pour savoir comment ajouter un comportement, c'est par ici : ---> [comportements](https://github.com/g404-code-gaming/GDevelop_Cour/blob/main/Comportement.md).
+
+Dans le comportement de votre personnage, désactivez les contrôles par défaut et choisissez les paramètres qui vous conviennent.
 
 ![plateformerComportement](Images/ComportementPlateformer.png)
 
+Ajoutez aussi le comportement *Plateformer* sur vos plateformes, sinon, votre personnage tombera dans le vide.
+
 ### Code 💻: 
-Une fois les comportements définis, nous pouvons commencer à [coder](https://github.com/g404-code-gaming/GDevelop_Cour/blob/main/%C3%A9v%C3%A8nements.md) le déplacement et le saut. Le personnage se déplace automatiquement vers la droite ➡️, donc avons besoin de coder en ajoutant seulement une force. Ensuite, nous devons coder le saut. Cela peut être fait en ajoutant une force ascendante ⬆️ au personnage lorsque le joueur appuie sur la touche de saut.
+
+Une fois les comportements définis, nous pouvons commencer à [coder](https://github.com/g404-code-gaming/GDevelop_Cour/blob/main/%C3%A9v%C3%A8nements.md) le déplacement et le saut. Le personnage se déplace automatiquement vers la droite ➡️, donc avons besoin de coder en ajoutant seulement une force. 
 
 ![DeplacementCodePlayer](Images/DeplacementCodePlayer.png)
+
+Ensuite, nous devons coder le saut. Cela peut être fait en ajoutant une force ascendante ⬆️ au personnage lorsque le joueur appuie sur la touche de saut.
 
 ![CodePlayerJump](Images/CodePlayerJump.png)
 
