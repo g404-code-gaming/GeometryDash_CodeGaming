@@ -17,11 +17,11 @@ Ajoutez aussi le comportement **Plateformer** sur vos plateformes, sinon, votre 
 
 Une fois les comportements définis, nous pouvons commencer à [coder](https://github.com/g404-code-gaming/GDevelop_Cour/blob/main/%C3%A9v%C3%A8nements.md) le déplacement et le saut. Le personnage se déplace automatiquement vers la droite ➡️, donc avons besoin de coder en ajoutant seulement une force. 
 
-![DeplacementCodePlayer](Images/DeplacementCodePlayer.png)
+![DeplacementCodePlayer](Images/DeplacementCodePlayer.jpg)
 
 Ensuite, nous devons coder le saut. Cela peut être fait en ajoutant une force ascendante ⬆️ au personnage lorsque le joueur appuie sur la touche de saut.
 
-![CodePlayerJump](Images/CodePlayerJump.png)
+![CodePlayerJump](Images/CodePlayerJump.jpg)
 
 Player2 correspond à un groupe d'objet qui est le Player et les particules que nous allons créer juste après.
 
