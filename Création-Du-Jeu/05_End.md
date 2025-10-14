@@ -1,6 +1,30 @@
 # Animation et visuel 
 
+### Ajout de particules ✨:
 
+Pour rendre le jeu plus visuellement intéressant, nous pouvons ajouter des particules qui sont émises lorsque le personnage court et saute. Ces particules peuvent ressembler à de la poussière, des étincelles, etc.
+
+Les particules proviennent d'un objet spécial appelé **émetteur de particule** (*particle emitter* en anglais)
+
+Crée un émetteur de particule puis placer le à l'arrière de notre personnage au sol.
+À chaque instant, on va modifier la position pour chaque déplacement du joueur.
+
+![ParticuleDeplacement](Images/ParticuleDeplacement.png)
+
+Suite à cela, on voudrait que l'émission se réalise seulement quand le personnage est au sol. On réalisera alors un arrêt d'émission de particules lorsque le player ne sera plus détecter comme au sol.
+
+![EmissionSaut](Images/EmissionSaut.png)
+
+### Animation de saut 🏃‍♂️:
+
+Lorsque le personnage saute, une animation de saut est jouée. Ces animations donnent l'impression que le personnage saute et surtout évite de rester immobile.
+Lorsque le personnage ne sera pas en contact avec le sol, on ajoutera une rotation au player.
+
+![RotationJump](Images/RotationJump.png)
+
+À la fin de cette partie, vous devriez en être ici au niveau du code.
+
+![EndPartJumpCode](Images/EndPartJumpCode.png)
 
 # 🏁 Fin du parcours
 
