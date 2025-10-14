@@ -2,7 +2,7 @@
 
 La map de notre version de Geometry Dash sera créée en utilisant une série d'objet spécifiques.
 
-Si tu ne sais pas comment ajouter des objets à ton jeu, tout est expliqué ici ---> [Ajouter un objets](https://github.com/g404-code-gaming/GDevelop_Cour/blob/main/Objets.md)
+Si tu ne sais pas comment ajouter des objets à ton jeu, tout est expliqué ici ---> [Ajouter un objet](https://github.com/g404-code-gaming/GDevelop_Cour/blob/main/Objets.md)
 
 Voici la liste des objets dont nous aurons besoin pour réaliser le projet :
 
