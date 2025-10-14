@@ -8,7 +8,9 @@ Afin de ne pas avoir à coder chacune de ces manières de mourrir, nous allons r
 
 Créez un groupe d'objet **Danger** et placez dedans vos objets dangereux.
 
+![image danger](https://github.com/g404-code-gaming/GeometryDash_CodeGaming/blob/main/Cr%C3%A9ation-Du-Jeu/Images/3_groupe_danger.JPG)
 
+Créer aussi un groupe **Sol**, dans lequel vous allez mettre tout les objets sur lesquels votre personnage peut se déplacer.
 
 ## Placement des Deadzone 📦
 La première étape pour tuer notre personnage est de placer des Deadzone sur chaque devanture des plateformes. Ces Deadzone serviront de zones de détection de mort. Lorsque notre personnage cubique 🟩 entre en contact avec l'une de ces zones, il sera considéré comme mort. Il est important de placer ces Deadzone de manière précise pour s'assurer que le personnage meurt seulement lorsqu'il est censé mourir (par exemple, lorsqu'il tombe dans un piège ⚠️ ou lorsqu'il touche un obstacle).
