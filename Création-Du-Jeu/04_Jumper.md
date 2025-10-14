@@ -5,6 +5,7 @@
 
 Les tremplins sont des [objets](https://github.com/g404-code-gaming/GDevelop_Cour/blob/main/Objets.md) spéciaux qui propulsent automatiquement le personnage en l'air lorsqu'il entre en contact avec eux. 
 
+![tremplin impage]()
 
 Pour créer un tremplin, nous devons d'abord placer l'objet tremplin sur la carte. Ensuite, nous devons [coder](https://github.com/g404-code-gaming/GDevelop_Cour/blob/main/%C3%A9v%C3%A8nements.md) le comportement du tremplin. Lorsque le personnage est en collision avec le tremplin, on fera simuler un appui sur la touche de saut pour pouvoir sauté.
 
