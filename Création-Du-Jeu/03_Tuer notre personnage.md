@@ -12,21 +12,21 @@ Créez un groupe d'objet **Danger** et placez dedans vos objets dangereux.
 
 Créer aussi un groupe **Sol**, dans lequel vous allez mettre tout les objets sur lesquels votre personnage peut se déplacer.
 
+## Mort du personnage 
+
+Le personnage meurre quand il entre en collision avec un des objets du groupe **Danger**. Cela relance le niveau après 1 seconde : 
+
+![image danger](https://github.com/g404-code-gaming/GeometryDash_CodeGaming/blob/main/Cr%C3%A9ation-Du-Jeu/Images/3_mort.JPG)
+
 ## Placement des Deadzone 📦
-La première étape pour tuer notre personnage est de placer des Deadzone sur chaque devanture des plateformes. Ces Deadzone serviront de zones de détection de mort. Lorsque notre personnage cubique 🟩 entre en contact avec l'une de ces zones, il sera considéré comme mort. Il est important de placer ces Deadzone de manière précise pour s'assurer que le personnage meurt seulement lorsqu'il est censé mourir (par exemple, lorsqu'il tombe dans un piège ⚠️ ou lorsqu'il touche un obstacle).
-Voici un exemple en image.
+Les Deadzones sont des objets particuliers : ce ne sont pas des objets visibles, mais des carrés invisibles qui nous tue lorsqu'on percute un mur ou un plafond. 
 
 ![CheckBoxExemple](Images/CheckBoxExemple.png)
 
-## Code de la mort 💻
-Une fois les checkbox placées, nous pouvons passer au [code](https://github.com/g404-code-gaming/GDevelop_Cour/blob/main/%C3%A9v%C3%A8nements.md) de la mort. Ce code sera exécuté lorsque le personnage entre en contact avec une zone de détection de mort. Il peut inclure des actions comme arrêter le mouvement du personnage, jouer une animation de mort, afficher un message de game over, etc. Le code de la mort est une partie essentielle du jeu, car il donne des conséquences aux erreurs du joueur et ajoute un élément de défi au jeu.
+Pour les placer correctement sur chacun des éléments de notre scène, nous programmons l'évènement suivant: 
+
+![image danger](https://github.com/g404-code-gaming/GeometryDash_CodeGaming/blob/main/Cr%C3%A9ation-Du-Jeu/Images/3_deadzone.JPG)
 
 Pour ne pas voir les CheckBox, on passera l'opacité de l'objet au lancement de la scène à 0.
 
-![OpaciteCheckBox](Images/OpaciteCheckBox.png)
-
-Pour ma part lorsque le player mourra je créerais des particules rouges en supprimant notre player et en rechargeant la scène de jeu.
-
-![DeadCode](Images/DeadCode.png)
-
-[Ajoutons a notre map des jumpers](https://github.com/g404-code-gaming/GeometryDash_CodeGaming/blob/main/Création-Du-Jeu/04_Jumper.md)
+Nous avons l'essentiel du jeu. Il reste toutefois beaucoup de chose à améliorer : [Jumpers](https://github.com/g404-code-gaming/GeometryDash_CodeGaming/blob/main/Création-Du-Jeu/04_Jumper.md)
