@@ -1,3 +1,7 @@
+# Animation et visuel 
+
+
+
 # 🏁 Fin du parcours
 
 La fin du parcours est un élément crucial de tout niveau de Geometry Dash. C'est l'objectif que le joueur essaie d'atteindre, et c'est ce qui marque la fin du défi.
