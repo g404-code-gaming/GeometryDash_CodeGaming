@@ -1,6 +1,10 @@
 # 🗺️ Création de la map et liste des objets nécessaires pour réaliser le projet
 
-La map de notre version de Geometry Dash sera créée en utilisant une série d'[objets](https://github.com/g404-code-gaming/GDevelop_Cour/blob/main/Objets.md) spécifiques. Voici la liste des objets dont nous aurons besoin pour réaliser le projet :
+La map de notre version de Geometry Dash sera créée en utilisant une série d'objet spécifiques.
+
+Si tu ne sais pas comment ajouter des objets à ton jeu, tout est expliqué ici ---> [Ajouter un objets](https://github.com/g404-code-gaming/GDevelop_Cour/blob/main/Objets.md)
+
+Voici la liste des objets dont nous aurons besoin pour réaliser le projet :
 
 >🟩 Un personnage cubique : C'est le protagoniste de notre jeu. Il se déplace automatiquement à travers la map et le joueur contrôle ses sauts pour éviter les obstacles.
 >
